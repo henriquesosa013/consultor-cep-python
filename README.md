@@ -1,6 +1,6 @@
 # Consultor de CEP
 
-Projeto simples em Python que consulta endereços usando a API ViaCEP e salva o histórico das consultas.
+Projeto em Python que consulta endereços usando a API ViaCEP e salva o histórico das consultas.
 
 ## Funcionalidades
 - Consulta de CEP
